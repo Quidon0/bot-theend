@@ -1,0 +1,4 @@
+gigachat
+fastapi
+uvicorn
+pydantic
